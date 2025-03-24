@@ -1,0 +1,5 @@
+#venv
+knowledgegraph
+
+# ignore ALL .log files
+*.log
